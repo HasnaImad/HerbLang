@@ -18,16 +18,6 @@ represents:
 5 + 3 + 3 + 3 = 14
 ```
 
----
-
-## 📚 Course
-
-**Programming Languages and Paradigms**
-
-**Project:** HerbLang
-
----
-
 ## 👥 Team Members
 
 * Amira Khezzar — U23104100
