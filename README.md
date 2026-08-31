@@ -18,18 +18,6 @@ represents:
 5 + 3 + 3 + 3 = 14
 ```
 
-## 👥 Team Members
-
-* Amira Khezzar — U23104100
-* Hasna Imad Eldin Abdul Hay — U23100997
-* Fatma A. S. Alkhodari — U22104519
-* Mona M. M. Mansour — U22104988
-* Fatma Ibrahim Khammas — U23101181
-
-**Instructor:** Dr. Imad Afyouni
-
----
-
 ## 🌿 Concept Overview
 
 HerbLang combines programming concepts with natural metaphors.
